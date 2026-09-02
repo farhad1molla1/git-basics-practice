@@ -1,0 +1,6 @@
+one-line notes on:
+
+Git
+GitHub
+Repository
+Commit
